@@ -9,6 +9,8 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xSpaceDragon&theme=midnight-purple&show_icons=true)
 
+<img align="right" width="300" src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" />
+
 <!--
 **xSpaceDragon/xSpaceDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,6 @@
-### Olá forasteiro 👋 <img align="right" width="300" src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" />
+### Olá forasteiro 👋 
+
+<img align="right" width="300" src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" />
 
 ### Habilidades 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
